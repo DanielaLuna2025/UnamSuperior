@@ -1,2 +1,2 @@
 ## Clase de historia 1
-Inicio  [Historia](./README.md)&nbsp;Clase de historia
+Inicio  [Inicio](../README.md)&nbsp;Clase de historia
